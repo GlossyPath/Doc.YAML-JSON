@@ -34,6 +34,7 @@ Ejemplo de un documento JSON
   }
 }
 ```
+[Ir a estilo de Lenguaje YALM](https://github.com/GlossyPath/Doc.YAML-JSON/edit/main/YAML.md)
 
 [Volver a Documentación YALM y JSON](https://github.com/GlossyPath/Documentaci-n-YAML-y-JSON/blob/main/README.md)
 
