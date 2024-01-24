@@ -1,6 +1,6 @@
 # Documentación YAML y JSON.
 
-## Introducción: 
+## Introducción
 Ambos formatos son utilizados en el desarrollo de software para representar datos de manera estructurada y legible por máquinas y humanos. Ambos son populares en la configuración de aplicaciones y el intercambio de datos en entornos informáticos.
 
 ### YAML (YAML Ain't Markup Language):
