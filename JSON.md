@@ -20,7 +20,7 @@
 
 > Aunque algunos lenguajes de programación permiten comentarios en archivos JSON, el formato JSON en sí mismo no tiene un mecanismo oficial para comentarios.
 
-// Ejemplo de un documento JSON
+Ejemplo de un documento JSON
 
 ```ruby
 {
