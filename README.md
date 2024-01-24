@@ -13,7 +13,7 @@ Ambos formatos son utilizados en el desarrollo de software para representar dato
 *JSON* es un formato de intercambio de datos ligero y fácil de leer, originalmente derivado de la notación de objetos de JavaScript. Se utiliza ampliamente para transmitir datos entre un servidor y un cliente, así como para almacenar datos estructurados. *JSON* utiliza una sintaxis basada en pares clave-valor y es compatible con varios lenguajes de programación.
 
 >[!NOTE]
-[Más información sobre JSON](https://github.com/GlossyPath/Documentaci-n-YAML-y-JSON/blob/main/JSON.md)
+[Información sobre JSON](https://github.com/GlossyPath/Documentaci-n-YAML-y-JSON/blob/main/JSON.md)
 
 ## Conclusión
 En resumen, *YAML* y *JSON* son dos poderosos formatos utilizados en el desarrollo de software para estructurar y representar datos. *YAML* destaca por su legibilidad humana, lo que lo convierte en una elección ideal para configuraciones y archivos de datos donde la claridad es esencial. Por otro lado, *JSON*, con su sintaxis basada en pares clave-valor, es reconocido por su eficiencia y amplia compatibilidad en entornos de intercambio de datos entre aplicaciones.
