@@ -35,3 +35,6 @@ Ejemplo de un documento JSON
 }
 ```
 
+[Volver a Documentación YALM y JSON](https://github.com/GlossyPath/Documentaci-n-YAML-y-JSON/blob/main/README.md)
+
+
