@@ -32,4 +32,6 @@ dirección:
   calle: Calle Principal
   ciudad: Ciudad Ejemplo
 ````
+[Ir a estilo de Lenguaje JSON](https://github.com/GlossyPath/Doc.YAML-JSON/blob/main/JSON.md)
+
 [Volver a Documentación YALM y JSON](https://github.com/GlossyPath/Documentaci-n-YAML-y-JSON/blob/main/README.md)
