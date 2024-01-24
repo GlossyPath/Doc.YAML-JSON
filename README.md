@@ -5,4 +5,5 @@ Ambos formatos son utilizados en el desarrollo de software para representar dato
 
 ### YAML (YAML Ain't Markup Language):
 YAML es un formato de serialización de datos legible por humanos que se utiliza comúnmente para la configuración de aplicaciones y archivos de datos. Su sintaxis es simple y fácil de entender, lo que lo hace especialmente adecuado para la configuración de software y archivos de configuración. YAML utiliza sangrías y espacios para estructurar datos y se centra en ser fácilmente legible.
-Más información soble YALM [
+
+[Más información soble YALM](https://github.com/GlossyPath/Documentaci-n-YAML-y-JSON/blob/main/YAML.md)
