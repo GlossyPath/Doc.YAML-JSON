@@ -1,4 +1,5 @@
 # Estilo de Lenguaje en JSON
+![json-logo-_1_ (1)](https://github.com/GlossyPath/Doc.YAML-JSON/assets/117355304/1789625c-a581-4e26-b865-8f2e65159831)
 
 **Sintaxis Basada en Pares Clave-Valor**:
 
