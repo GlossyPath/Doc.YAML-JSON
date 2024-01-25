@@ -1,4 +1,6 @@
-# Estilo de Lenguaje en YAML
+# Estilo de Lenguaje en YAML                                                                                              
+![YAML (1)](https://github.com/GlossyPath/Doc.YAML-JSON/assets/117355304/297e51f7-8cb9-4de8-a325-457d1c8f928b)
+
 
 **Legibilidad Humana**:
 
